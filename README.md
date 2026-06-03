@@ -1,3 +1,2 @@
 # PY-CALCULTOR
-i learnt python basic and built this calculator. its a basic calculator which perform basic arithmetic operations.
-ITS MY FIRST PYTHON PROJECCT :?
+Im Anay 15. I built this project as my first ever PYTHON project. this is a basic mathematical calcultor and this can perform basic arithmetic operations. i always used to think that programming was very hard but now i think that anyone can do it if ttheyy are passionate.
